@@ -76,8 +76,8 @@
 /mob/living/simple_animal/hostile/spawner/ghoul
 	name = "ghoul pit"
 	desc = "A pit full of feral ghouls, and some still seem to be moving"
-	icon_state = "hole"
-	icon_living = "hole"
+	icon_state = "ghoulking"
+	icon_living = "ghoulking"
 	icon = 'icons/mob/ghoulking.dmi'
 	health = 1000
 	maxHealth = 1000
