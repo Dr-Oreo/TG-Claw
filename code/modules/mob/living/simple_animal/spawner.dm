@@ -78,7 +78,7 @@
 	desc = "A pit full of feral ghouls, and some still seem to be moving"
 	icon_state = "hole"
 	icon_living = "hole"
-	icon = 'icons/mob/nest.dmi'
+	icon = 'icons/mob/ghoulking.dmi'
 	health = 1000
 	maxHealth = 1000
 	max_mobs = 5
